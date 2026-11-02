@@ -15,7 +15,8 @@ name="tanu"
 age=19
 # age is a variable that stores the integer 19.
 price=19.66
-# price is a variable that stores the float 19.66.
+# price is 
+# a variable that stores the float 19.66.
 age=age+1
 # age is incremented by 1, so it becomes 20.
 print(name)
